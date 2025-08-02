@@ -56,6 +56,13 @@ Airline AI is a conversational flight booking assistant that helps users book ti
 5. Saves all data to a .txt file
 
 ---
+# Project 3- AI Powered Python-to-C++ Code Converter
+
+**Python-to-C++ Code Converter**: Transforms Python source code into optimized C++ using LLMs (GPT or Claude) to enhance performance and efficiency.
+
+**LLM Selection & Code Execution**: Allows users to choose between GPT or Claude for conversion, then compile and run the C++ output to verify results.
+
+**Performance Boost & Output Validation**: Generates faster executables by leveraging C++ optimization, with built-in tools to compare outputs and benchmark speed improvements.
 
 ## 📌 Getting Started
 
@@ -67,6 +74,3 @@ Airline AI is a conversational flight booking assistant that helps users book ti
 
 ---
 
-## 📝 License
-
-This project is for educational and demo purposes.
