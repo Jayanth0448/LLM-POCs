@@ -56,7 +56,20 @@ Airline AI is a conversational flight booking assistant that helps users book ti
 5. Saves all data to a .txt file
 
 ---
+## Project 3 : Transforms Python source code into optimized C++
+- **Python-to-C++ Code Converter**: Transforms Python source code into optimized C++ using LLMs (GPT or Claude) to enhance performance and efficiency.  
+- **LLM Selection & Code Execution**: Allows users to choose between GPT or Claude for conversion, then compile and run the C++ output to verify results.  
+- **Performance Boost & Output Validation**: Generates faster executables by leveraging C++ optimization, with built-in tools to compare outputs and benchmark speed improvements.
 
+---
+
+## Project 4 : Synthetic Enterprise Knowledge Base for RAG Pipelines
+1. **RAG with LangChain** – Implemented Retrieval-Augmented Generation to combine retrieved banking documents with OpenAI GPT models for accurate, context-aware responses.  
+2. **Vector Store using Chroma** – Stored and retrieved OpenAI-generated embeddings for fast semantic search and efficient document retrieval.  
+3. **Custom Banking Dataset** – Created detailed Markdown files for company details, employees, products, contracts, and policies to simulate a real-world banking knowledge base.  
+4. **Configurable Retriever Pipeline** – Tuned retrieval parameters to optimize the number and relevance of documents fed into the LLM for generation.
+
+--- 
 ## 📌 Getting Started
 
 1. Clone the repository
